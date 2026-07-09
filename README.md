@@ -1,2 +1,1 @@
-# Vivek-i9-Alakh-pandey-parody-discord-bot
-A savage and unfiltered Discord AI parody bot powered by Groq API
+Install Node.js, run `npm install`, rename .env.example to .env, fill TOKEN and GROQ_API_KEY, then `npm start`.
